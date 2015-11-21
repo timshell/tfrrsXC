@@ -16,13 +16,19 @@ def main():
 
     allRaces = []
     closeRunners = []
+    closeRunnerTimes = []
+    diffsInTimes = []
     epsilon = 30 # seconds
-    
+
     loadAll(allRaces)
     print "Done loading"
     userName = raw_input("Enter name (e.g. John Doe): ")
     runnerTime = findRunner(userName, allRaces)
-    findCloseRunners(runnerTime, closeRunners, epsilon, allRaces, closeRunnerTimes)
+    findCloseRunners(runnerTime, closeRunners, epsilon, allRaces)
+    findCloseRunnerTimes(allRaces, closeRunners, closeRunnerTimes)
+    calcDiffTimes(diffsInTimes, closeRunnerTimes)
+    for race in diffsInTimes:
+        print findMedian(race)
 
 def loadAll(allRaces):
 
@@ -39,10 +45,43 @@ def findRunner(userName, allRaces):
 
 def findCloseRunners(runnerTime, closeRunners, epsilon, allRaces):
     for runner in allRaces[0]:
-        #if runner.getTime() == None:
-        #    print runner.getName()
-        if abs(runner.getTime() - runnerTime) < epsilon:
+        if abs(runner.getTime() - runnerTime) <= epsilon:
             closeRunners.append(runner)
-    for runner in closeRunners:
-        print runner.getName()
+
+def findCloseRunnerTimes(allRaces, closeRunners, closeRunnerTimes):
+    for race in allRaces:
+        raceTimes = []
+        closeRunnerTimes.append(raceTimes)
+        for runner in closeRunners:
+            found = False
+            for otherRunner in race:
+                if runner.getName() == otherRunner.getName():
+                    raceTimes.append(otherRunner.getTime())
+                    found = True
+                    break
+            if found == False:
+                raceTimes.append(None)
+
+
+def calcDiffTimes(diffsInTimes, closeRunnerTimes):
+    for race in closeRunnerTimes[1:]:
+        runnerDifferences = []
+        diffsInTimes.append(runnerDifferences)
+        for index in range(len(race)):
+            if (race[index] != None) & (closeRunnerTimes[0][index] != None):
+                runnerDifferences.append(race[index] - closeRunnerTimes[0][index])
+            else:
+                runnerDifferences.append(None)
+
+def findMedian(lst):
+    lst = [x for x in lst if x is not None]
+    if (len(lst) % 2) == 1:
+        return sorted(lst)[(len(lst)+1)/2]
+    else:
+        return avg(sorted(lst)[len(lst)/2], sorted(lst)[len(lst)/2-1])
+
+def avg(a, b):
+    return (a + b)/2
+
+
 main()
