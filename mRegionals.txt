@@ -1,0 +1,2596 @@
+1
+Marquardt, Charlie
+SR-4
+Haverford
+5:04.7
+25:14.8
+1
+2
+Flank, Jaryd
+JR-3
+Muhlenberg
+5:06.5
+25:23.7
+2
+3
+Pitone, Ernie
+JR-3
+Widener
+5:07.2
+25:27.3
+3
+4
+Trama, Zach
+SR-4
+Elizabethtown
+5:07.9
+25:30.8
+4
+5
+Christiansen, Daniel
+JR-3
+Grove City
+5:08.8
+25:35.2
+5
+6
+Schwartz, Ryan
+SR-4
+Johns Hopkins
+5:09.1
+25:36.5
+6
+7
+Shenk, Matthew
+SR-4
+Elizabethtown
+5:09.5
+25:38.6
+7
+8
+McDermott, Will
+JR-3
+Widener
+5:10.5
+25:43.8
+8
+9
+Crowe, John
+SR-4
+Susquehanna
+5:10.8
+25:45.0
+9
+10
+Archer, Ryan
+JR-3
+Carnegie Mellon
+5:11.1
+25:46.4
+10
+11
+Gorman, Jimmy
+JR-3
+Haverford
+5:11.9
+25:50.3
+11
+12
+Schatz, Jared
+SR-4
+Messiah
+5:12.3
+25:52.6
+12
+13
+Fujimori, Sam
+SR-4
+Haverford
+5:12.7
+25:54.7
+13
+14
+McConville, Mike
+SR-4
+Swarthmore
+5:13.2
+25:57.1
+14
+15
+Howard, Elias
+SR-4
+Dickinson
+5:13.6
+25:58.9
+15
+16
+Woods, Henry
+SO-2
+Haverford
+5:13.6
+25:59.1
+16
+17
+Mitchell, William
+FR-1
+Carnegie Mellon
+5:13.8
+26:00.1
+17
+18
+Hause, Mikael
+SR-4
+Misericordia
+5:13.9
+26:00.7
+18
+19
+Auld, Ryan
+SO-2
+Carnegie Mellon
+5:14.0
+26:01.2
+19
+20
+Kingstedt, Otto
+FR-1
+Gallaudet
+5:14.3
+26:02.4
+20
+21
+Cooper, Sam
+SR-4
+Elizabethtown
+5:14.4
+26:03.0
+21
+22
+Conway, Ryan
+SR-4
+Elizabethtown
+5:14.6
+26:04.0
+22
+23
+Bollens, Brian
+JR-3
+Carnegie Mellon
+5:14.7
+26:04.4
+23
+24
+Moretton, Brandan
+JR-3
+St. Vincent (Pa.)
+5:14.7
+26:04.5
+24
+25
+Evans, Byron
+JR-3
+Morrisville State
+5:14.8
+26:04.9
+25
+26
+Peet, Graham
+FR-1
+Haverford
+5:14.9
+26:05.5
+26
+27
+Predhome, Alexander
+SR-4
+Dickinson
+5:15.2
+26:06.7
+27
+28
+Taber, Ben
+JR-3
+Gettysburg
+5:15.6
+26:08.7
+28
+29
+Antonson, Joshua
+SR-4
+Carnegie Mellon
+5:16.1
+26:11.2
+29
+30
+Julien, Marc-Daniel
+SR-4
+Carnegie Mellon
+5:16.3
+26:12.4
+30
+31
+Green, Paul
+SR-4
+Swarthmore
+5:16.3
+26:12.6
+31
+32
+Branch, Corey
+JR-3
+Swarthmore
+5:16.6
+26:13.7
+32
+33
+Gandolfo-Lucia, Nick
+SR-4
+Haverford
+5:16.6
+26:13.7
+33
+34
+Mhatre, Aaditya
+FR-1
+Carnegie Mellon
+5:16.8
+26:14.8
+34
+35
+Verner-Crist, Dylan
+SR-4
+Haverford
+5:17.8
+26:19.8
+35
+36
+Levine  , Louis
+SO-2
+Johns Hopkins
+5:18.0
+26:20.7
+36
+37
+Hesselbirg, Connor
+JR-3
+Salisbury
+5:18.8
+26:24.7
+37
+38
+Dell, Grant
+SO-2
+York (Pa.)
+5:19.0
+26:25.6
+38
+39
+Harriger, Adam
+SR-4
+Elizabethtown
+5:19.1
+26:26.3
+39
+40
+Lamm, Gabe
+FR-1
+DeSales
+5:19.3
+26:27.2
+40
+41
+McDonough, Keegan
+JR-3
+Elizabethtown
+5:19.4
+26:27.7
+41
+42
+Smith, Alex
+SO-2
+York (Pa.)
+5:19.9
+26:30.2
+42
+43
+Shirk, Cameron
+SR-4
+Messiah
+5:20.0
+26:30.9
+43
+44
+Mullins, Corey
+FR-1
+Muhlenberg
+5:20.0
+26:30.9
+44
+45
+Hickson, Oliver
+FR-1
+Johns Hopkins
+5:20.1
+26:31.3
+45
+46
+Fielder , Brandon
+SO-2
+Johns Hopkins
+5:20.6
+26:34.0
+46
+47
+Rodriguez, Angel
+SR-4
+Immaculata
+5:20.7
+26:34.1
+47
+48
+Gonoude, Kyle
+FR-1
+DeSales
+5:20.8
+26:34.6
+48
+49
+Burch, Kaleb
+SO-2
+Messiah
+5:20.8
+26:34.6
+49
+50
+Alaghatta, Akshay
+JR-3
+Johns Hopkins
+5:21.7
+26:39.1
+50
+51
+Fortin, Stephen
+SR-4
+Widener
+5:21.7
+26:39.1
+51
+52
+Fitch, Alexander
+FR-1
+Misericordia
+5:21.7
+26:39.5
+52
+53
+Kane, Alex
+SR-4
+PSU-Abington
+5:22.4
+26:42.6
+53
+54
+Duffie, Josh
+FR-1
+Geneva
+5:22.6
+26:43.5
+54
+55
+Eberhardt, Colin
+SR-4
+Susquehanna
+5:22.7
+26:44.1
+55
+56
+Isenberg, Dan
+SR-4
+Susquehanna
+5:23.2
+26:46.8
+56
+57
+Ciccone, John
+JR-3
+Keystone
+5:23.5
+26:48.1
+57
+58
+Scheib, Christopher
+SR-4
+Messiah
+5:23.9
+26:50.1
+58
+59
+Parsons, Jake
+SO-2
+PSU-Behrend
+5:24.2
+26:51.6
+59
+60
+Edwards, Will
+JR-3
+DeSales
+5:24.4
+26:52.6
+60
+61
+Hepner, Mason
+JR-3
+Dickinson
+5:24.5
+26:53.0
+61
+62
+Walsten, Doran
+SR-4
+Johns Hopkins
+5:24.7
+26:54.3
+62
+63
+Gash, Langston
+FR-1
+Stevenson
+5:24.7
+26:54.4
+63
+64
+Goelz, Andrew
+SR-4
+Lebanon Valley
+5:24.9
+26:55.4
+64
+65
+Moyer, Harley
+FR-1
+Washington and Jefferson
+5:25.0
+26:55.9
+65
+66
+Meister, Ben
+SO-2
+Salisbury
+5:25.1
+26:56.2
+66
+67
+MacGibbon, Andy
+SO-2
+York (Pa.)
+5:25.4
+26:57.9
+67
+68
+Smith, Clay
+SO-2
+Geneva
+5:25.9
+27:00.2
+68
+69
+Tonzo, Vincent
+SR-4
+St. Vincent (Pa.)
+5:26.0
+27:00.5
+69
+70
+Updegrove, Will
+JR-3
+Widener
+5:26.4
+27:02.5
+70
+71
+Milton, Malcolm
+SO-2
+Salisbury
+5:27.0
+27:05.5
+71
+72
+Kilheeney, Brad
+JR-3
+DeSales
+5:27.2
+27:06.5
+72
+73
+Paganelli, J.T.
+JR-3
+Franklin & Marshall
+5:27.3
+27:07.0
+73
+74
+Dimond, Conor
+JR-3
+Juniata
+5:27.4
+27:07.7
+74
+75
+Campbell, Michael
+FR-1
+Thomas More
+5:28.0
+27:10.7
+75
+76
+Schott, Benjamin
+FR-1
+Messiah
+5:28.3
+27:12.2
+76
+77
+Arnold, Stefan
+JR-3
+Johns Hopkins
+5:28.5
+27:13.1
+77
+78
+Agrawal, Mayank
+SO-2
+Swarthmore
+5:28.6
+27:13.5
+78
+79
+Deignan, Eric
+JR-3
+Misericordia
+5:28.8
+27:14.5
+79
+80
+Depew, John Paul
+FR-1
+St. Vincent (Pa.)
+5:28.8
+27:14.8
+80
+81
+Masteran, Connor
+FR-1
+Salisbury
+5:28.9
+27:15.2
+81
+82
+Udell, Nathan
+SO-2
+Dickinson
+5:28.9
+27:15.2
+82
+83
+Siegel, Ben
+SO-2
+King's (Pa.)
+5:29.0
+27:15.8
+83
+84
+Wasilnak, Corey
+ 
+Scranton
+5:29.2
+27:16.7
+84
+85
+Natalie, Josh
+SR-4
+PSU-Behrend
+5:29.3
+27:16.9
+85
+86
+Donnelly, Ryan
+JR-3
+Bethany (W.V.)
+5:29.4
+27:17.4
+86
+87
+Harmon, Leo
+JR-3
+Widener
+5:30.1
+27:20.8
+87
+88
+Reed, Trever
+JR-3
+Misericordia
+5:30.4
+27:22.3
+88
+89
+Imhof, Gabe
+JR-3
+Grove City
+5:30.5
+27:23.2
+89
+90
+Lesko, Andrew
+JR-3
+Elizabethtown
+5:30.8
+27:24.3
+90
+91
+McCann, Kyle
+FR-1
+DeSales
+5:30.8
+27:24.6
+91
+92
+Farnan, Jimmy
+JR-3
+St. Vincent (Pa.)
+5:30.9
+27:25.0
+92
+93
+Zubrycki, Matthew
+FR-1
+York (Pa.)
+5:30.9
+27:25.1
+93
+94
+Burkhart, Shane
+FR-1
+Washington and Jefferson
+5:31.0
+27:25.3
+94
+95
+Hamilton, James
+SR-4
+Franklin & Marshall
+5:31.0
+27:25.4
+95
+96
+Sander, Christopher
+JR-3
+York (Pa.)
+5:31.0
+27:25.6
+96
+97
+Beggs, Devin
+SR-4
+PSU-Behrend
+5:31.4
+27:27.7
+97
+98
+Hayes, Matthew
+JR-3
+York (Pa.)
+5:31.5
+27:27.9
+98
+99
+Cooper, Andrew
+SR-4
+Widener
+5:31.5
+27:28.0
+99
+100
+Davis, Jackson
+SR-4
+Gettysburg
+5:31.8
+27:29.4
+100
+101
+McIntyre, Tom
+SO-2
+Salisbury
+5:32.0
+27:30.6
+101
+102
+Perez, Vicente
+FR-1
+Gallaudet
+5:32.3
+27:32.0
+102
+103
+Wise, Brandon
+JR-3
+Grove City
+5:32.4
+27:32.4
+103
+104
+Mele, Christian
+FR-1
+Alvernia
+5:32.5
+27:33.1
+104
+105
+Brown, Matt
+SO-2
+Gwynedd-Mercy
+5:32.7
+27:34.1
+ 
+106
+Lyman, Spencer
+FR-1
+Franklin & Marshall
+5:32.8
+27:34.4
+105
+107
+Aug, Ryan
+SO-2
+York (Pa.)
+5:32.8
+27:34.6
+106
+108
+Munro, Kyle
+FR-1
+Lebanon Valley
+5:32.9
+27:34.7
+107
+109
+Calantoni, Anthony
+SO-2
+Muhlenberg
+5:33.2
+27:36.4
+108
+110
+Grifith, Ian
+SO-2
+PSU-Behrend
+5:33.2
+27:36.6
+109
+111
+Sokirniy, Petro
+JR-3
+Juniata
+5:33.3
+27:37.0
+110
+112
+Harrel, Mark
+JR-3
+Susquehanna
+5:34.0
+27:40.5
+111
+113
+MacIntire, Eric
+SR-4
+Cairn
+5:34.1
+27:40.7
+112
+114
+Homan, Sam
+SR-4
+St. Vincent (Pa.)
+5:34.1
+27:40.9
+113
+115
+Gagnon, John
+JR-3
+Swarthmore
+5:34.1
+27:41.1
+114
+116
+Heilman, James
+JR-3
+McDaniel
+5:34.2
+27:41.4
+115
+117
+Budinski, Nick
+SR-4
+Marywood
+5:34.3
+27:41.7
+116
+118
+Smith, Schuyler
+ 
+Scranton
+5:34.4
+27:42.6
+117
+119
+Morrow, Jackson
+FR-1
+Stevenson
+5:34.6
+27:43.3
+118
+120
+McClure, Nick
+SO-2
+Grove City
+5:34.7
+27:44.1
+119
+121
+Rolden, Fernando
+FR-1
+PSU-Berks
+5:35.0
+27:45.3
+120
+122
+Whalen, Michael
+JR-3
+Franklin & Marshall
+5:35.0
+27:45.6
+121
+123
+Smith , Noah
+FR-1
+Chatham
+5:35.7
+27:48.8
+ 
+124
+Manion, Patrick
+FR-1
+Franklin & Marshall
+5:35.7
+27:48.9
+122
+125
+Mirigliano, Vince
+FR-1
+Washington and Jefferson
+5:35.7
+27:49.1
+123
+126
+Cody, Nathan
+SR-4
+Gettysburg
+5:36.2
+27:51.2
+124
+127
+Simmons, Zachary
+SR-4
+Dickinson
+5:36.3
+27:51.8
+125
+128
+Eppler, Paul
+SR-4
+Gettysburg
+5:36.3
+27:52.0
+126
+129
+Romano, Robert
+FR-1
+Frostburg State
+5:36.4
+27:52.1
+127
+130
+Moody, Zachary
+SO-2
+Misericordia
+5:36.4
+27:52.2
+128
+131
+Colgan, William
+FR-1
+Swarthmore
+5:36.4
+27:52.3
+129
+132
+Drastura, Kevin
+SR-4
+DeSales
+5:36.5
+27:52.9
+130
+133
+Veidis, Nikolajs
+FR-1
+Muhlenberg
+5:36.6
+27:53.3
+131
+134
+Detsch, Ryan
+JR-3
+St. Vincent (Pa.)
+5:36.8
+27:54.5
+132
+135
+Ames, Jacob
+FR-1
+Geneva
+5:37.1
+27:55.6
+133
+136
+Herrmann, Eric
+FR-1
+Dickinson
+5:37.2
+27:56.2
+134
+137
+Basile, Caleb
+JR-3
+Cairn
+5:37.2
+27:56.4
+135
+138
+Kioussis, Theodore
+FR-1
+Washington and Jefferson
+5:37.5
+27:57.7
+136
+139
+Ferguson, Thomas
+SR-4
+Stevenson
+5:37.6
+27:58.3
+137
+140
+deLeon, David
+ 
+Scranton
+5:37.7
+27:59.0
+138
+141
+Martin, Graham
+SO-2
+Franciscan (Ohio)
+5:38.0
+28:00.1
+139
+142
+Kutcel, Ken
+JR-3
+Geneva
+5:38.2
+28:01.3
+140
+143
+Drum, Andrew
+SR-4
+Hood
+5:38.3
+28:01.8
+141
+144
+Buffington, Dylan
+SO-2
+PSU-Behrend
+5:38.6
+28:03.2
+142
+145
+MacMullin, Evan
+FR-1
+Juniata
+5:38.8
+28:04.3
+143
+146
+Mercoli, Sam
+FR-1
+Stevenson
+5:39.1
+28:05.7
+144
+147
+Bilotta, Mike
+SR-4
+Widener
+5:39.2
+28:06.5
+145
+148
+Ward, Marcus
+FR-1
+Keystone
+5:39.3
+28:06.7
+146
+149
+Domencic, Andrew
+FR-1
+Geneva
+5:39.5
+28:07.8
+147
+150
+Thibault, Drew
+SO-2
+Grove City
+5:39.6
+28:08.5
+148
+151
+West, Brandon
+SO-2
+Thomas More
+5:39.6
+28:08.5
+149
+152
+Lindley, Jordan
+SO-2
+Wilkes
+5:39.7
+28:08.6
+150
+153
+Buckley, James
+ 
+Scranton
+5:39.8
+28:09.3
+151
+154
+Pasquali, Matt
+SO-2
+Dickinson
+5:40.0
+28:10.1
+152
+155
+Bomgardner, Chad
+SO-2
+Lebanon Valley
+5:40.4
+28:12.0
+153
+156
+Kalny, Marc
+FR-1
+Scranton
+5:40.7
+28:13.9
+154
+157
+Williams, Bryce
+FR-1
+Franklin & Marshall
+5:41.1
+28:15.7
+155
+158
+Scullin, Nicholas
+SO-2
+Lebanon Valley
+5:41.3
+28:16.9
+156
+159
+Reed, Aaron
+SR-4
+Eastern
+5:41.5
+28:17.6
+157
+160
+Pardoe, Nathaniel
+JR-3
+Messiah
+5:41.8
+28:19.0
+158
+161
+Cahill, Robert
+SO-2
+Moravian
+5:41.8
+28:19.4
+159
+162
+McAuley, Benjamin
+SR-4
+Waynesburg
+5:41.9
+28:19.7
+160
+163
+Kirk, Billy
+FR-1
+Salisbury
+5:41.9
+28:19.9
+161
+164
+Petrecca, Alex
+FR-1
+Gettysburg
+5:42.1
+28:20.9
+162
+165
+Bender, Clayton
+SO-2
+Eastern
+5:42.4
+28:22.0
+163
+166
+Hall, Josh
+FR-1
+Salisbury
+5:42.4
+28:22.1
+164
+167
+Golebiowski, Roman
+ 
+Scranton
+5:42.6
+28:23.4
+165
+168
+Schofield, Kevin
+SO-2
+Juniata
+5:42.9
+28:24.6
+166
+169
+Baker, Brad
+SO-2
+Frostburg State
+5:43.0
+28:25.0
+167
+170
+Dunsworth, Joshua
+SR-4
+Grove City
+5:43.1
+28:25.8
+168
+171
+Mackin, Andrew
+SR-4
+Ursinus
+5:43.3
+28:26.5
+169
+172
+Ostuni, Anthony
+JR-3
+Morrisville State
+5:43.4
+28:27.1
+170
+173
+Thomas, Ryan
+SR-4
+Thiel
+5:43.4
+28:27.3
+171
+174
+Gibbs, Logan
+FR-1
+Stevenson
+5:43.5
+28:27.6
+172
+175
+Skavery, Justin
+JR-3
+Susquehanna
+5:43.9
+28:29.5
+173
+176
+Bialek, Thomas
+JR-3
+Alvernia
+5:43.9
+28:29.5
+174
+177
+Buck, Jonathan
+FR-1
+Misericordia
+5:44.0
+28:30.1
+175
+178
+Kuzminski, Joel
+FR-1
+Waynesburg
+5:44.1
+28:30.6
+176
+179
+Powers, Ibsen
+JR-3
+Lebanon Valley
+5:44.3
+28:31.8
+177
+180
+Tolbert, Martin
+SR-4
+Wilkes
+5:44.4
+28:32.3
+178
+181
+Peters, Aaron
+JR-3
+PSU-Behrend
+5:44.8
+28:33.9
+179
+182
+Brass, Dominic
+JR-3
+DeSales
+5:44.9
+28:34.8
+180
+183
+Krott, Jacob
+SR-4
+Juniata
+5:45.0
+28:35.1
+181
+184
+Cornell, Cody
+SR-4
+PSU-Behrend
+5:45.0
+28:35.3
+182
+185
+Loos, Christopher
+FR-1
+Thomas More
+5:45.1
+28:35.8
+183
+186
+Brady, Noah
+FR-1
+Lebanon Valley
+5:45.2
+28:36.0
+184
+187
+Fridman, Brian
+SO-2
+Arcadia
+5:45.3
+28:36.8
+185
+188
+Long, Nick
+FR-1
+Franciscan (Ohio)
+5:45.3
+28:36.8
+186
+189
+Hennessey, Aidan
+SR-4
+St. Mary's (Md.)
+5:45.4
+28:37.0
+187
+190
+Sander, August
+JR-3
+St. Vincent (Pa.)
+5:45.4
+28:37.2
+188
+191
+Pardoe, Joshua
+JR-3
+Messiah
+5:45.4
+28:37.3
+189
+192
+Kelly, Harrison
+FR-1
+Lebanon Valley
+5:45.4
+28:37.3
+190
+193
+Terpening, Richard
+SR-4
+Morrisville State
+5:45.5
+28:37.7
+191
+194
+Luzzi, Sean
+SO-2
+Misericordia
+5:46.1
+28:40.6
+192
+195
+Pryor, Jacob
+FR-1
+Waynesburg
+5:46.2
+28:41.3
+193
+196
+Trombley, Nicholas
+SR-4
+Eastern
+5:46.5
+28:42.6
+194
+197
+Miceli, Brien
+JR-3
+Franklin & Marshall
+5:46.6
+28:43.2
+195
+198
+Sutton, Tyler
+SR-4
+Wilkes
+5:46.7
+28:43.6
+196
+199
+Benedict, Matthew
+SO-2
+Cairn
+5:47.0
+28:45.1
+197
+200
+Lyons, Connor
+SR-4
+King's (Pa.)
+5:47.0
+28:45.2
+198
+201
+Stuckman, Grady
+FR-1
+Franciscan (Ohio)
+5:47.1
+28:45.6
+199
+202
+Clarke, Devon
+SO-2
+Marywood
+5:47.2
+28:46.0
+200
+203
+Artinger, Johnny
+FR-1
+Chatham
+5:47.4
+28:46.9
+ 
+204
+Sennett, Andrew
+FR-1
+Cabrini
+5:47.5
+28:47.3
+ 
+205
+Doering, Barrett
+SR-4
+Arcadia
+5:47.5
+28:47.6
+201
+206
+Wojick, Nathan
+JR-3
+Gettysburg
+5:47.6
+28:47.8
+202
+207
+Cahnbley, Yannik
+FR-1
+PSU-Abington
+5:47.9
+28:49.3
+203
+208
+Budnik, Ryan
+FR-1
+Grove City
+5:48.2
+28:51.1
+204
+209
+Iuliucci, Joseph
+SO-2
+Ursinus
+5:48.7
+28:53.5
+205
+210
+Redmond, John
+SO-2
+Franciscan (Ohio)
+5:49.3
+28:56.4
+206
+211
+Michalak, Adam
+FR-1
+Stevenson
+5:49.6
+28:57.9
+207
+212
+Seka, Devin
+FR-1
+Chatham
+5:49.6
+28:57.9
+ 
+213
+Ortiz, Eric
+JR-3
+St. Mary's (Md.)
+5:49.6
+28:58.1
+208
+214
+Jackson, Tim
+SO-2
+Franciscan (Ohio)
+5:49.6
+28:58.1
+209
+215
+Brown, Jeremy
+SR-4
+Frostburg State
+5:50.2
+29:01.1
+210
+216
+Klocke, Ross
+FR-1
+Thomas More
+5:50.4
+29:01.8
+211
+217
+Savarese, Eric
+FR-1
+Juniata
+5:50.5
+29:02.4
+212
+218
+Ebersole, Levi
+FR-1
+Geneva
+5:50.6
+29:03.1
+213
+219
+Rossiter, Noah
+SR-4
+Gettysburg
+5:50.9
+29:04.4
+214
+220
+Korten, Max
+SR-4
+Moravian
+5:51.4
+29:06.7
+215
+221
+Grunbok, Stephen
+FR-1
+Scranton
+5:51.4
+29:06.8
+216
+222
+Forino, Brandon
+FR-1
+Eastern
+5:51.4
+29:06.9
+217
+223
+Snider, Jonathan
+SO-2
+Cairn
+5:52.0
+29:10.1
+218
+224
+Crossey, Zachary
+FR-1
+Hood
+5:52.3
+29:11.3
+219
+225
+Lynch, Peter
+JR-3
+Susquehanna
+5:52.5
+29:12.4
+220
+226
+Waldschmidt, David
+SO-2
+Westminster (Pa.)
+5:52.6
+29:12.7
+ 
+227
+Costa, Nelson
+SO-2
+PSU-Abington
+5:52.7
+29:13.5
+221
+228
+Davis, Jarod
+FR-1
+Thomas More
+5:52.8
+29:13.8
+222
+229
+Funge, Christopher
+FR-1
+Muhlenberg
+5:52.8
+29:14.1
+223
+230
+Garges, John
+SO-2
+Eastern
+5:53.0
+29:14.8
+224
+231
+Havrilla, Michael
+FR-1
+King's (Pa.)
+5:53.2
+29:15.7
+225
+232
+Ferro, Harrison
+FR-1
+Wilkes
+5:53.2
+29:16.0
+226
+233
+Mainolfi, Greg
+SR-4
+St. Mary's (Md.)
+5:53.4
+29:16.7
+227
+234
+McPhaul, Thomas
+SO-2
+St. Mary's (Md.)
+5:53.4
+29:16.7
+228
+235
+Alvarez, Xavier
+JR-3
+Frostburg State
+5:53.5
+29:17.5
+229
+236
+Heimberger, Casey
+JR-3
+Waynesburg
+5:53.5
+29:17.6
+230
+237
+Judlick, James
+FR-1
+St. Mary's (Md.)
+5:53.8
+29:18.7
+231
+238
+Saxon, Jacob
+FR-1
+Muhlenberg
+5:53.8
+29:19.0
+232
+239
+Close, Alex
+JR-3
+Gallaudet
+5:53.9
+29:19.4
+233
+240
+Runner, Thomas
+FR-1
+McDaniel
+5:54.0
+29:19.9
+234
+241
+Byers, David
+JR-3
+Franciscan (Ohio)
+5:54.4
+29:22.0
+235
+242
+McLaughlin, Connor
+SR-4
+PSU-Berks
+5:54.7
+29:23.3
+236
+243
+Holbrook, Tedd
+JR-3
+Lancaster Bible
+5:55.3
+29:26.5
+ 
+244
+O'Flaherty, Sean
+FR-1
+Goucher
+5:55.7
+29:28.1
+ 
+245
+Martin, Ben
+SO-2
+Juniata
+5:55.8
+29:28.9
+237
+246
+Rich, Dylan
+SO-2
+Gallaudet
+5:56.0
+29:29.6
+238
+247
+Larsen, Adam
+JR-3
+Marywood
+5:56.0
+29:29.6
+239
+248
+Donovan, William
+SO-2
+PSU-Abington
+5:56.3
+29:31.1
+240
+249
+McFall, Josh
+SO-2
+Westminster (Pa.)
+5:56.5
+29:32.1
+ 
+250
+Hartop, James
+SR-4
+Ursinus
+5:56.5
+29:32.3
+241
+251
+Ford, Mitchell
+JR-3
+King's (Pa.)
+5:56.5
+29:32.5
+242
+252
+Casey, Eric
+FR-1
+Thiel
+5:57.2
+29:35.8
+243
+253
+Krob, Tanner
+FR-1
+Lancaster Bible
+5:57.5
+29:37.3
+ 
+254
+Voyack, Andrew
+FR-1
+Ursinus
+5:57.6
+29:37.9
+244
+255
+Miller, Jacob
+JR-3
+Lycoming
+5:58.1
+29:40.0
+245
+256
+Strohl, Austin
+FR-1
+PSU-Berks
+5:58.2
+29:40.7
+246
+257
+Nail, Cody
+JR-3
+Waynesburg
+5:58.3
+29:41.4
+247
+258
+Cope, Jonathan
+FR-1
+Ursinus
+5:58.4
+29:41.8
+248
+259
+Harris, Devon
+FR-1
+Moravian
+5:58.9
+29:44.1
+249
+260
+Miller, Tyler
+JR-3
+Washington and Jefferson
+5:59.8
+29:48.6
+250
+261
+Peters, Michael
+FR-1
+Westminster (Pa.)
+6:00.1
+29:50.2
+ 
+262
+Michalenko, Alexander
+FR-1
+Bethany (W.V.)
+6:00.4
+29:51.9
+251
+263
+Mitchell, Andrew
+FR-1
+Muhlenberg
+6:00.5
+29:52.4
+252
+264
+Cirafesi, Evan
+FR-1
+Ursinus
+6:00.9
+29:54.1
+253
+265
+Baran, Tyler
+SR-4
+King's (Pa.)
+6:01.1
+29:55.2
+254
+266
+Simmons, Justin
+JR-3
+Waynesburg
+6:01.3
+29:56.4
+255
+267
+Whitley, Matthew
+FR-1
+Frostburg State
+6:01.6
+29:57.8
+256
+268
+Clark, John
+JR-3
+Thiel
+6:01.7
+29:58.2
+257
+269
+Hamm, James
+SO-2
+Lycoming
+6:01.8
+29:58.8
+258
+270
+Mitchell, Andrew
+SO-2
+Moravian
+6:02.2
+30:00.4
+259
+271
+Mercoli, Anthony
+FR-1
+Stevenson
+6:02.2
+30:00.7
+260
+272
+Jenkins, Adam
+SR-4
+Frostburg State
+6:02.4
+30:01.4
+261
+273
+Plumer, Ryan
+SR-4
+King's (Pa.)
+6:02.8
+30:03.7
+262
+274
+Basile, Stephen
+FR-1
+Cairn
+6:03.2
+30:05.8
+263
+275
+Stetler, Austin
+SO-2
+Moravian
+6:03.5
+30:07.3
+264
+276
+Duncklee, Michael
+FR-1
+King's (Pa.)
+6:03.6
+30:07.8
+265
+277
+Liriano, Lucas
+SO-2
+Bethany (W.V.)
+6:03.8
+30:08.5
+266
+278
+Zimmerman, Scott
+SO-2
+St. Mary's (Md.)
+6:03.9
+30:09.0
+267
+279
+Weiser, Dylan
+FR-1
+Albright
+6:04.0
+30:09.4
+268
+280
+Moquin, Alexander
+SO-2
+PSU-Berks
+6:04.0
+30:09.8
+269
+281
+Lapsley, Noah
+FR-1
+Eastern
+6:04.1
+30:10.0
+270
+282
+Martin, Will
+SR-4
+Immaculata
+6:04.7
+30:13.2
+271
+283
+Carson, Dylan
+SO-2
+Rosemont
+6:05.0
+30:14.4
+ 
+284
+Daroowalla, Cyrus
+FR-1
+McDaniel
+6:05.3
+30:16.0
+272
+285
+Schreiber, Cody
+SO-2
+Geneva
+6:05.5
+30:17.1
+273
+286
+Smith, Ronald
+FR-1
+Thomas More
+6:05.9
+30:19.0
+274
+287
+Christopher, Neil
+JR-3
+Westminster (Pa.)
+6:06.0
+30:19.4
+ 
+288
+McCauley, Tyler
+FR-1
+Thomas More
+6:07.0
+30:24.6
+275
+289
+Junio, Matthew
+FR-1
+Alvernia
+6:07.1
+30:24.9
+276
+290
+Matthews, John
+JR-3
+Susquehanna
+6:07.1
+30:25.0
+277
+291
+Depue, Justin
+FR-1
+Morrisville State
+6:07.6
+30:27.3
+278
+292
+Clementson, Alek
+FR-1
+PSU-Abington
+6:07.7
+30:28.1
+279
+293
+Fry, Greg
+FR-1
+Wilkes
+6:07.9
+30:29.2
+280
+294
+Rudich, Jason
+SR-4
+Ursinus
+6:08.7
+30:32.7
+281
+295
+Johnson, John
+SR-4
+Eastern
+6:08.7
+30:33.1
+282
+296
+Horning, Gregory
+SR-4
+Frostburg State
+6:08.8
+30:33.5
+283
+297
+Kauffman, Zach
+JR-3
+Lancaster Bible
+6:09.3
+30:35.8
+ 
+298
+Fullerton, Patrick
+FR-1
+Washington and Jefferson
+6:09.5
+30:36.9
+284
+299
+Davis, Austin
+SO-2
+Bethany (W.V.)
+6:10.5
+30:42.1
+285
+300
+Bierhals, Donald
+SO-2
+Bethany (W.V.)
+6:11.0
+30:44.6
+286
+301
+Ali, Mohamed
+SO-2
+Morrisville State
+6:11.4
+30:46.3
+287
+302
+Beker, Max
+SR-4
+St. Mary's (Md.)
+6:11.7
+30:48.1
+288
+303
+Conapitski, Jacob
+SR-4
+Alvernia
+6:13.2
+30:55.3
+289
+304
+Olive, Joshua
+FR-1
+Waynesburg
+6:13.5
+30:56.9
+290
+305
+Whitesell, Reese
+FR-1
+Hood
+6:13.6
+30:57.1
+291
+306
+Crouse, Kyle
+JR-3
+McDaniel
+6:14.1
+30:59.8
+292
+307
+Seale, Ben
+FR-1
+Morrisville State
+6:14.3
+31:00.6
+293
+308
+Taggert, Cory
+JR-3
+Moravian
+6:15.0
+31:04.1
+294
+309
+Kopach, Michael
+SO-2
+Moravian
+6:16.3
+31:10.5
+295
+310
+McCleaf, Mike
+JR-3
+Wilkes
+6:16.4
+31:11.3
+296
+311
+Brueckl, Drew
+FR-1
+Thiel
+6:17.4
+31:16.4
+297
+312
+Evangelista, Nicholas
+FR-1
+Wilkes
+6:18.4
+31:21.4
+298
+313
+Lyden, Peter
+SR-4
+Cabrini
+6:18.5
+31:21.8
+ 
+314
+Strum, David
+JR-3
+Keystone
+6:20.3
+31:30.5
+299
+315
+McElhaney, Christian
+SO-2
+Thiel
+6:20.7
+31:32.7
+300
+316
+Yoshioka, Ian
+FR-1
+McDaniel
+6:21.1
+31:34.5
+301
+317
+Steiner, Kyle
+JR-3
+Keystone
+6:21.3
+31:35.4
+302
+318
+Strausser, Benjamin
+FR-1
+Alvernia
+6:21.4
+31:35.9
+303
+319
+Dhulekar, Raoul
+FR-1
+Arcadia
+6:21.5
+31:36.4
+304
+320
+Dion, Andrew
+FR-1
+Lycoming
+6:22.9
+31:43.6
+305
+321
+Stevens, Alexander
+JR-3
+Hood
+6:23.0
+31:44.2
+306
+322
+Peck, Zachary
+FR-1
+Hood
+6:23.7
+31:47.5
+307
+323
+DeLuzio, Justin
+JR-3
+Gwynedd-Mercy
+6:24.3
+31:50.5
+ 
+324
+Clarkin-Wright, Collin
+SO-2
+Goucher
+6:24.4
+31:50.9
+ 
+325
+Montalvo, Jaime
+SO-2
+Thiel
+6:24.5
+31:51.3
+308
+326
+Hart, Jacob
+FR-1
+Delaware Valley
+6:24.8
+31:53.2
+ 
+327
+Quinn, Tommy
+SO-2
+PSU-Berks
+6:25.5
+31:56.6
+309
+328
+DeFlavis, Matthew
+JR-3
+Cairn
+6:26.9
+32:03.6
+310
+329
+Craine, Mason
+SO-2
+Morrisville State
+6:27.4
+32:05.8
+311
+330
+Vaillancourt, Christian
+FR-1
+Cairn
+6:28.3
+32:10.4
+312
+331
+Marino, Thomas
+SR-4
+Hood
+6:28.8
+32:13.0
+313
+332
+Pisani, Nicholas
+FR-1
+Lycoming
+6:29.4
+32:16.0
+314
+333
+Bentivegna, Nicholas
+SO-2
+Hilbert
+6:30.5
+32:21.4
+ 
+334
+Kline, Kris
+SO-2
+Delaware Valley
+6:30.7
+32:22.4
+ 
+335
+Hartley, Joe
+FR-1
+PSU-Berks
+6:30.9
+32:23.3
+315
+336
+Rivera, Daniel
+JR-3
+Arcadia
+6:32.8
+32:32.7
+316
+337
+Delaney, Emmett
+JR-3
+Franciscan (Ohio)
+6:33.4
+32:36.0
+317
+338
+Hastings, Sean
+SO-2
+Lycoming
+6:34.6
+32:41.5
+318
+339
+Yoder, Daniel
+JR-3
+Lycoming
+6:34.8
+32:42.9
+319
+340
+Lear, Christopher
+FR-1
+Arcadia
+6:35.1
+32:44.3
+320
+341
+Richardson, Nicholas
+SO-2
+Immaculata
+6:35.6
+32:46.7
+321
+342
+Sharma, Hemang
+FR-1
+La Roche
+6:36.7
+32:52.0
+322
+343
+Droz, Adam
+FR-1
+Hilbert
+6:37.3
+32:55.2
+ 
+344
+Joseph, Carl
+FR-1
+Keystone
+6:39.5
+33:05.9
+323
+345
+Isaacson, John
+SO-2
+Gallaudet
+6:39.6
+33:06.5
+324
+346
+Roy, Nathan
+SO-2
+Marywood
+6:39.6
+33:06.5
+325
+347
+Henriquez, Brandon
+FR-1
+PSU-Berks
+6:41.4
+33:15.6
+326
+348
+Doll, Jason
+SR-4
+Delaware Valley
+6:41.6
+33:16.3
+ 
+349
+Schwalm, Ryan
+SO-2
+Immaculata
+6:45.3
+33:34.8
+327
+350
+Nicholson, John
+SO-2
+La Roche
+6:46.0
+33:38.4
+328
+351
+Wamsher, Michael
+FR-1
+Immaculata
+6:47.6
+33:46.6
+329
+352
+Carino, Gabriel
+SR-4
+Gallaudet
+6:47.9
+33:47.7
+330
+353
+Hartz, Brandon
+JR-3
+La Roche
+6:48.3
+33:49.8
+331
+354
+McClain, Jacob
+SR-4
+Lycoming
+6:52.0
+34:08.1
+332
+355
+Lancaster, Mark
+SO-2
+Medaille
+6:56.4
+34:30.3
+ 
+356
+Branscomb, Joshua
+SO-2
+Gallaudet
+7:02.3
+34:59.5
+333
+357
+Bowman, Christian
+JR-3
+Albright
+7:07.3
+35:24.5
+334
+358
+Maniocha, Christopher
+SO-2
+Hood
+7:09.0
+35:32.8
+335
+359
+Garay, William
+JR-3
+Albright
+7:14.7
+36:01.2
+336
+360
+Wong, Tsz Kit
+FR-1
+Albright
+7:14.8
+36:01.4
+337
+361
+Jamison, Tyler
+FR-1
+La Roche
+7:17.3
+36:14.0
+338
+362
+Gatto, Bryan
+FR-1
+La Roche
+7:18.6
+36:20.5
+339
+363
+Kelsch, Joseph
+FR-1
+La Roche
+7:25.7
+36:55.9
+340
+364
+Shotto, Tyler
+JR-3
+Marywood
+7:27.8
+37:06.2
+341
+365
+Pawlose, Wondemneh
+FR-1
+Goucher
+7:28.0
+37:07.3
+ 
+366
+Zielinski, Ryan
+FR-1
+Hilbert
+7:29.3
+37:13.6
+ 
+367
+Bailey, Soloman
+FR-1
+Albright
+7:44.1
+38:27.4
+342
+368
+Robinson, Kyle
+SR-4
+Rosemont
+7:49.8
+38:55.5
+ 
+369
+Watkins, Jovan
+FR-1
+Rosemont
+8:10.7
+40:39.7
+ 
+370
+Xue, Daniel
+SR-4
+Lancaster Bible
+8:20.3
+41:27.2
+ 
+371
+Woodward, Colin
+SR-4
+Rosemont
+10:32.0
+52:21.9
